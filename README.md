@@ -1,6 +1,6 @@
 # Documentation_Page
 [![TicciX Copyright](https://i.imgur.com/7S2IFBc.png)](https://github.com/Ticcix/)  [![TicciX Copyright](https://i.imgur.com/OwYKoVb.png)](https://ticcix.github.io/
-Documentation_Page/) 
+Documentation_Page/) ]
 <li>პლაგინის ვერსია:&nbsp;<b>1.0</b>
         <ul>
             <li>დლე 13.X - <u style="color:rgb(227,55,55);">მაღლა</u></li>
